@@ -1,0 +1,5 @@
+android/app/build/
+*.apk.tmp
+*.keystore
+.DS_Store
+Thumbs.db
